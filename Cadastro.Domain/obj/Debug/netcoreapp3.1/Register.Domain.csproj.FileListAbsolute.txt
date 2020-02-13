@@ -1,7 +1,0 @@
-C:\Users\Hellyan\source\repos\CadastroVeiculos\Cadastro.Domain\bin\Debug\netcoreapp3.1\Register.Domain.deps.json
-C:\Users\Hellyan\source\repos\CadastroVeiculos\Cadastro.Domain\bin\Debug\netcoreapp3.1\Register.Domain.dll
-C:\Users\Hellyan\source\repos\CadastroVeiculos\Cadastro.Domain\bin\Debug\netcoreapp3.1\Register.Domain.pdb
-C:\Users\Hellyan\source\repos\CadastroVeiculos\Cadastro.Domain\obj\Debug\netcoreapp3.1\Register.Domain.AssemblyInfoInputs.cache
-C:\Users\Hellyan\source\repos\CadastroVeiculos\Cadastro.Domain\obj\Debug\netcoreapp3.1\Register.Domain.AssemblyInfo.cs
-C:\Users\Hellyan\source\repos\CadastroVeiculos\Cadastro.Domain\obj\Debug\netcoreapp3.1\Register.Domain.dll
-C:\Users\Hellyan\source\repos\CadastroVeiculos\Cadastro.Domain\obj\Debug\netcoreapp3.1\Register.Domain.pdb
